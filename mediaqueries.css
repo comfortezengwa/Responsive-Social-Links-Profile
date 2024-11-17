@@ -1,0 +1,13 @@
+/* screens max-width 767px */
+
+@media (max-width: 767px) {
+
+.Profile nav a  {
+    width: 250px;
+}
+
+.Profile p {
+   text-align: center; 
+}
+
+}
